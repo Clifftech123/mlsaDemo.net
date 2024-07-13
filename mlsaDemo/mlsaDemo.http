@@ -1,0 +1,6 @@
+@mlsaDemo_HostAddress = http://localhost:5019
+
+GET {{mlsaDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
